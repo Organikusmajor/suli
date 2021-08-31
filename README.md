@@ -1,0 +1,2 @@
+# suli
+gyakorlás
